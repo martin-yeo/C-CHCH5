@@ -17,7 +17,7 @@ int adding(int num) {    // 營敝 л熱 recursive function
 	if (num == 1) return 1;
 	else return ( adding(num - 1) + 2 );
 }
-int facto(int num) {
+int facto(int num) {     // 營敝 л熱
 	if (num == 1) return 1;
 	else return ( num * facto(num - 1) );
 }
