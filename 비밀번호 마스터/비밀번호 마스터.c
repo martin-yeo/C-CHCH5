@@ -2,7 +2,7 @@
 #include <stdlib.h>   // rand() 함수, srand() 함수
 #include <time.h>     // time() 함수
 
-void showIntro(void);	//시작화면
+void showIntro(void);	//시작화면 예쁘게
 void showSuccess(void); //성공시 화면
 void showFail(void);	//실패시 화면
 void showExit(void);	//종료조건을 입력시 화면
